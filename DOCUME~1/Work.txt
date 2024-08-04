@@ -1,0 +1,110 @@
+﻿Cloud Server
+----------
+Login,
+View and Authorize User,
+
+View and Authorize Owner,
+
+View All Datasets,
+
+View All Datasets Blockchain,
+
+View All Attackers,
+
+View Disease Results,
+
+View Attacker Results.
+
+Bob
+-----------
+
+Register and Login,
+Search and Decrypt Patient Details,
+
+
+Alice
+--------
+
+Register and Login,
+Upload,
+
+View All Uploaded Datasets,
+
+View All Attackers,
+
+
+
+Members
+---------
+pid,	
+age,	
+sex,	
+Cerebral_palsy,	
+trestbps,	
+chol,	
+fbs,	
+restecg,	
+thalach,	
+exang,	
+oldpeak,	
+bp,	
+Disease,
+hcode.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
